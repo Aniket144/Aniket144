@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hey there 👋 
 <!--
 **Aniket144/Aniket144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center" width="50">
+  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" alt="Welcome!" width="300"/>
+</div>
